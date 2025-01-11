@@ -1,4 +1,4 @@
-# upgrading-ollama-tiny-LLM-to-AI-assistant
+# upgrading-ollama-tiny-LLM-to-add-hearing-and-speech
 <i>by adding listening and text to speech (tts) to the ollama framework</i>
 
 This coding project merely adds the ability to speak to the (tiny) LLM in the ollama framework and also gets the answer to be spoken back to you, as if you were conversing with another human! 

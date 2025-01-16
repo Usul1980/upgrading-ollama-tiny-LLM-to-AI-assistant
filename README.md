@@ -18,3 +18,5 @@ https://ollama.com/library
 You can then give it a question and see what it comes back with.
 
 When you are ready, open the jupyter notebook called 'voice project' and run through it. Should be pretty straightforward.
+
+If you liked the work please give it a star.
